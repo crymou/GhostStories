@@ -1,5 +1,6 @@
-# CYOA
+# Ghost Stories
 
+A project for Choosing your Own Adventure in a horror style way. Still under development for sounds, music and writing.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 ## Development server
